@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Multiplayer.Client.MpSettings">
+		<username>Swept</username>
+		<serverSettings>
+			<maxPlayers>2</maxPlayers>
+			<autosaveInterval>10</autosaveInterval>
+			<steam>True</steam>
+			<lan>False</lan>
+		</serverSettings>
+	</ModSettings>
+</SettingsBlock>
