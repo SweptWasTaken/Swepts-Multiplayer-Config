@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/Rimworld-1.0-green.svg)](http://rimworldgame.com/)
 
-Swept's shared configuration files for Steam Collection
+Swept's shared configuration files for his Steam Collection
 
 ### Links
 
