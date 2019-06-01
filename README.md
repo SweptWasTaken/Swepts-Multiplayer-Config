@@ -13,7 +13,7 @@ Swept's shared configuration files for Steam Collection
 
 ## Instructions
 
-- Go to the Steam Modlist and hit subcribe to all.
+- Go to the Steam Modlist and hit subscribe to all.
 - Download [this zip here](https://github.com/SweptWasTaken/Swepts-Multiplayer-Config/archive/master.zip)
 - Extract under RimWorld's Config directory (In Rimworld, settings > show save data location)
 - It should look like [this](https://imgur.com/a/uXWFZLd)
