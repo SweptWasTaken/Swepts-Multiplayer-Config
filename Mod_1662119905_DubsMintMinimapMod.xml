@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsMintMinimap.Settings">
+		<StaticRectPos>(2251.0, 51.0)</StaticRectPos>
+		<MinimapOpen>True</MinimapOpen>
+		<ShowCorpses>True</ShowCorpses>
+		<multi21>200</multi21>
+		<BtnPos>200</BtnPos>
+		<LastVersion>DubsMintMinimap 1.2.295</LastVersion>
+	</ModSettings>
+</SettingsBlock>

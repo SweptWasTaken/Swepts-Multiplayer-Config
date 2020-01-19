@@ -2,11 +2,12 @@
 <SettingsBlock>
 	<ModSettings Class="Rimefeller.Settings">
 		<DisableColours>False</DisableColours>
+		<GenerateFloors>False</GenerateFloors>
 		<RegenRate>4</RegenRate>
 		<PipeVisibility>1</PipeVisibility>
 		<OilPumpCapacity>4</OilPumpCapacity>
 		<OilGridCapacity>3</OilGridCapacity>
 		<CrudeToFuelRatio>4</CrudeToFuelRatio>
-		<LastVersion>34162</LastVersion>
+		<LastVersion>Rimefeller 1.2.685</LastVersion>
 	</ModSettings>
 </SettingsBlock>
